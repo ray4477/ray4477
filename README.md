@@ -1,4 +1,5 @@
-## Currently a student at UT Austin studying ECE. Interested in embedded systems, ML, signal processing, and autonomy. 
+## Hello!
+I am currently at UT Austin studying ECE. My main interests are in embedded systems, ML, signal processing, and autonomy. 
 
 <!--
 **ray4477/ray4477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
